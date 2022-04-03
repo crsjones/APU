@@ -1,8 +1,10 @@
 ;
 ;SC-APU.asm
+;  Example code for -
+; Lawrence Livermore Laboratory Floating Point Package
 ;
 ; Craig Jones  March 2022
-;
+; see the library header below my example code for acknowledgements
 ;------------
 ; ASCII CODES
 ;------------
