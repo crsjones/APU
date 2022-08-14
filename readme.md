@@ -1,7 +1,7 @@
 
-# FLOATING-POINT PACKAGE FOR INTEL 8008 AND 8080 MICROPROCESSORS
-# Michael D. Maples
-#October 24, 1975
+## FLOATING-POINT PACKAGE FOR INTEL 8008 AND 8080 MICROPROCESSORS
+## Michael D. Maples
+## October 24, 1975
 
 This is the library in Z80 form from;
 
