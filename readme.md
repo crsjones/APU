@@ -4,7 +4,7 @@
 ### Michael D. Maples
 ### October 24, 1975
 
-This is the library in Z80 form from;
+This is the library in Z80 form based on the work of Herb Johnson;
 
 http://retrotechnology.com/herbs_stuff/float.html
 
