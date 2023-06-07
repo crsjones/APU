@@ -9,10 +9,10 @@ This is the library in Z80 form based on the work of Herb Johnson;
 http://retrotechnology.com/herbs_stuff/float.html
 
 I have added a basic menu to show how to use the library, using the emulated 6850 terminal provided
-by ASM80.
+by ASM80.(asm80.com)
 
 ## run the code
-Paste the URL into ASM80's "Import Repo from Github" option, "compile" the file
+Paste this URL into ASM80's "Import Repo from Github" option, "compile" the file
 Build.z80 and then "emulate".
 
 https://github.com/crsjones/APU
